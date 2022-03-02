@@ -3,7 +3,5 @@
 ```
 
 <p align="center">
-  <small>
-    <i>-. Jack of all trades, master of none .-</i>
-  </small>
+  <sub><sup><i>-. Jack of all trades, master of none .-</i></sub></sup>
 </p>
