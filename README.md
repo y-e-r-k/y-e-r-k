@@ -1,5 +1,7 @@
-```
-
+```C
+void myself(void) {
+  printf("");
+}
 ```
 
 <p align="center">
