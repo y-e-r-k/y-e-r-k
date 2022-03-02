@@ -7,7 +7,7 @@ void myself(void) {
   char learning[] = "Vue.js, C";
   char frameworks[] = "React";
   
-  prtinf("To C or not to C: that is the question.\n");
+  printf("To C or not to C: that is the question.\n");
 }
 
 int main(void) {
