@@ -1,6 +1,13 @@
 ```C
+#include <stdio.h>
+
 void myself(void) {
-  printf("");
+  char os[] = "Arch Linux";
+  char languages[] = "JavaScript, HTML, CSS, Python";
+  char learning[] = "Vue.js, C";
+  char frameworks[] = "React";
+  
+  prtinf("To C or not to C: that is the question.\n");
 }
 ```
 
