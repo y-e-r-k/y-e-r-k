@@ -9,6 +9,12 @@ void myself(void) {
   
   prtinf("To C or not to C: that is the question.\n");
 }
+
+int main(void) {
+  myself();
+  return 0;
+}
+
 ```
 
 <p align="center">
