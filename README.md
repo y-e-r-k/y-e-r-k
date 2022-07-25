@@ -4,8 +4,7 @@
 void myself(void) {
   char os[] = "Arch Linux";
   char languages[] = "JavaScript, HTML, CSS, Python";
-  char learning[] = "Vue.js, C, Vim";
-  char frameworks[] = "React";
+  char learning[] = "React.js, C, Vim";
   
   printf("To C or not to C: that is the question.\n");
 }
